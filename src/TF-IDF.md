@@ -110,5 +110,5 @@ def idf(word, corpus):
 这两个函数都可以仅用一两行代码完成，初学者也可以轻松解决。如果是有C语言基础的读者，在饱受C中复杂的字符串操作折磨后，想必会很喜欢Python中的字符串。
 
 ```admonish hint
-Life is short, I use Python!
+Life is short, you need Python!
 ```
